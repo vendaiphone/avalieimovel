@@ -1,1 +1,0 @@
-# Streamlit app com robô Selenium headless e scraping de OLX e Viva Real
